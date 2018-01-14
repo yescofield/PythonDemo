@@ -1,5 +1,6 @@
 *.iml
 .idea
+/venv
 /.idea/workspace.xml
 /.idea/libraries
 /.idea/vcs.xml
