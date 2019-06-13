@@ -53,6 +53,7 @@ def command_line_runner():
         return
     query_words(" ".join(args["query"]))
 
+
 def query_words(words):
     """
     使用有道词典API查询词典并在终端打印，输出的 result 格式
